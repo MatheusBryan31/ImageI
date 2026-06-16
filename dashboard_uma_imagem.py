@@ -32,7 +32,7 @@ ab1, ab2 = st.tabs([
 ])
 # ============================================ BRASIL ====================================================
 with ab1:
-    st.subheader("Seleção brasileira")
+    st.subheader("Seleção Brasileira")
 
     col1, col2, col3 = st.columns(3)
 
