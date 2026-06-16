@@ -43,7 +43,8 @@ with ab1:
         st.image(carregar_imagem("imagens_jogadores/bra_3.jpg"))
         st.write("Mais um do Brasil")
     with col3:
-        st.image("imagens_jogadores/bra_4.jpg")
+        st.image(carregar_imagem("imagens_jogadores/bra_4.jpg"))
+        st.write("Outro br.")
 # ========================================================================================================
 # ============================================ ALEMANHA ==================================================
 with ab2:
